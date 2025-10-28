@@ -3,7 +3,7 @@
 ## Student Information
 - Name: Dharani Sri Maha Rolla
 - Student ID: 23P31A0548
-- Repository: https://github.com/rolladharani/git-solved-23P31A0548.git
+- Repository: https://github.com/rolladharani/git-solved-23P31A0548
 - Date Started: 27-10-2025
 - Date Completed: 27-10-2025
 
